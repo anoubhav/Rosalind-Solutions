@@ -9,5 +9,3 @@ def codonTable():
             values = values +arr[1::2]
         table = dict(zip(keys, values))
         return table
-
-        
